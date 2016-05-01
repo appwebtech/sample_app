@@ -24,7 +24,7 @@ online using **version control** , then downlaod the whole project and upload im
 
 * System dependencies: bootstrap, sass-rails, uglifier, coffee-rails, jquary-rails, turbolinks, jbuilder, sdoc
 
-* Configuration: Development gems ('sqlite3', 'byebug', 'web-console', 'spring'): Group test gems ('minitest-reporters', 'mini_backtrace', 'guard-minitest')
+* Configuration: Development gems (`sqlite3`, `byebug`, `web-console`, `spring`): Group test gems (`minitest-reporters`, `mini_backtrace`, `guard-minitest`)
 
 * Database creation:  
 
