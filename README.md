@@ -16,10 +16,8 @@ Tried different websites with unrestricted online sharing like wikipedia and man
 It's likely the issue might be solved as online coding evolves but until then, have to do all the work 
 online using **version control** , then downlaod the whole project and upload images manualy using my home servers.
 
-System Specs:
+######System Specs:
 
-
-Things you may want to cover:
 
 * Ruby version:  ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
 * Rails version: Rails 4.2.2
@@ -38,12 +36,8 @@ Things you may want to cover:
 
 * Deployment. Heroku servers.
 
-* ...
-
 
 ## Support & Documentation
-
-
 
 https://github.com/appwebtech  
 
@@ -53,6 +47,5 @@ https://twitter.com/appwebtech
 
 https://www.facebook.com/theappwebtech
 
-######Coding and deploying to Amazon Web Services and Heroku done by
 
 Joseph Mwania, for the appwebtech team.
