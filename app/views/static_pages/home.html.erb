@@ -1,4 +1,14 @@
+<div class="center jumbotron">
+  <h1>Welcome to Joseph's Sample App</h1>
 
+  <h2>
+    This is the home page for the
+    <a href="#">Sample Ruby on Rails page</a>
+    application.
+  </h2>
 
-      <h1>My simple app</h1>
-    <p>Homepage of my simple app. isn't it cool?</p>
+  <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("rails.png", alt: "Rails logo"),
+            'https://en.wikipedia.org/wiki/Ruby#/media/File:Ruby_gem.JPG' %>
