@@ -19,20 +19,20 @@ online using **version control** , then downlaod the whole project and upload im
 ######System Specs:
 
 
-* Ruby version:  ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
-* Rails version: Rails 4.2.2
+* Ruby version:  `ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]`
+* Rails version: `Rails 4.2.2`
 
-* System dependencies: bootstrap, sass-rails, uglifier, coffee-rails, jquary-rails, turbolinks, jbuilder, sdoc
+* System dependencies: `bootstrap, sass-rails, uglifier, coffee-rails, jquary-rails, turbolinks, jbuilder, sdoc`
 
-* Configuration: Development gems (`sqlite3`, `byebug`, `web-console`, `spring`): Group test gems (`minitest-reporters`, `mini_backtrace`, `guard-minitest`)
+* Configuration: Development gems (`sqlite3, byebug, web-console ,spring`): Group test gems (`minitest-reporters, mini_backtrace, guard-minitest`)
 
 * Database creation:  
 
-* Database initialization & deployment: Initialising with SQLite 3 and deploying with PostgreSQL
+* Database initialization & deployment: Initialising with `SQLite 3 `and deploying with `PostgreSQL`
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (Apache Server, C9 servers, Bash, Ubuntu terminal in C9 etc.)
 
 * Deployment. Heroku servers.
 
